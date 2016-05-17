@@ -4,6 +4,8 @@
 
 <h3>About</h3>
 
+<p>Some people enjoy listening to English only. Google Cloud Storage CDN helps in this regard by allowing individuals to listen without needing to download and audio files are pasedo streamed from listeners nearest CDN point.</p>
+
 <p>This app features reading of entire English Translation (<a href="http://www.saheehinternational.com/" target="_blank"> Saheeh International</a>) of Quran by Ibrahim Walker page by page. The English only was extracted by <a href="http://www.versebyversequran.com/site/">Verse by Verse Quran</a> team</p>
 
 <p>A prototype App was requested that can play audio files from Cloud Storage.</p>

@@ -18,23 +18,26 @@
 </head>
 
 <body>
-
-    <div data-role="page" id="mainpage" data-theme="a">
-
+<div data-role="page" id="mainpage" data-theme="a">
         <div data-role="header">
-            
-            <a class="ui-btn" href="http://www.versebyversequran.com/site/help-us/" target="_blank">Audio extracted by versebyverse team</a><br /><br /><br />
-            <h1>Ibrahim Walker Reading<br /> from <br />Saheeh International Translation</h1>
+            <h1 class="ui-bar ui-bar-a">
+<a class="ui-btn mainbtn" href="http://www.versebyversequran.com/site/help-us/" target="_blank">Audio extracted by versebyverse team</a><br />
 
-            </dv>
+Ibrahim Walker Reading<br /> from <br /> Saheeh International Translation</h1>
+       
+     <div class="ui-bar ui-bar-a playerBar">
+            <audio preload="auto"></audio>
+     </div>
+          
+        </div>
 
-            <div role="main" id="mainlist" data-role="ui-content">
+         <div role="main" id="mainlist" data-role="ui-content">
                 
                 <ul id="theAudioList" data-role="listview">
-                    <audio preload="auto"></audio>
+                    
 
                 </ul>
-            </div>
+          </div>
 
 
             <div data-role="footer">
