@@ -15,12 +15,14 @@ h1:before { content: '♬ '; position: absolute; top: 16px; left: -3.1ex; color:
 }
 
 .playerBar {
-    position: fixed;
-    display:block;
-    float:left;
-    z-index: 2000;
-    bottom: -20px;
-    right: 0;
+     display:block;
+     width: auto;
+     height: auto;
+
+}
+
+.ui-footer .ui-bar p {
+    margin: 0 auto;
 }
 
 .audiojs { width: inherit;margin: 15px auto 20px auto; }

@@ -10,6 +10,8 @@
 
 <p>A prototype App was requested that can play audio files from Cloud Storage.</p>
 
+<img src="screencapture.png" width="auto" />
+
 <h3>Libraries Used</h3>
 <p><a href="http://jquerymobile.com/" target="_blank">JQuery Mobile</a></p>
 <p><a href="http://jquery.com/" target="_blank">JQuery</a></p>
